@@ -1,3 +1,7 @@
+a) Write a C++ program to create two Classes Square and Rectangle. Compare area of both the shapes using friend function. Accept appropriate data members for both the classes. 
+[Marks 15]
+
+
 #include <iostream.h>  // Use <iostream.h> instead of <iostream>
 
 class Rectangle;  
