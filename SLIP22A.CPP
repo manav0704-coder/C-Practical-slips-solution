@@ -1,3 +1,6 @@
+a) Write a C++ program to define two function templates for calculating the square and cube of given numbers with different data types.
+marks[15]
+
 #include <iostream.h>
 #include <conio.h>
 
