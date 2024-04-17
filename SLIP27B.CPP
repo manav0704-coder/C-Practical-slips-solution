@@ -1,3 +1,11 @@
+
+b) Create a base class Travels with data members T_no, Company_Name. Derive a class Route with data members Route id, Source, and Destination from Travels class. Also derive a class Reservation with data members Number_of_Seats, Travels_Class, Fare, and Travel_Date from Route.
+Write a C++ program to perform following necessary member functions:
+i. Accept details of 'n' reservations.
+ii. Display details of all reservations.
+iii. Display reservation details of a specified Date.
+[Marks 25]    
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
