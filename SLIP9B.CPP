@@ -1,3 +1,9 @@
+b) Create a C++ class Time with data members Hours, Minutes and Seconds. Write necessary member functions for the following: (Use Objects as arguments)
+i. To accept a time.
+ii. To display a time in format hh:mm:ss.
+iii. To find difference between two time and display it in format hh:mm:ss.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 
