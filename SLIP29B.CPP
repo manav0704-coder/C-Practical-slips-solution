@@ -1,3 +1,6 @@
+b) Create a
+C++ class VisitingStaff with data members Name, No_of_Subjects, Name_of_Subjects[], Working_hours, Total_Salary. (Number of subjects varies for a Staff). Write a parameterized constructor to initialize the data members and create an array for Name_of_Subjects dynamically. Display Visiting Staff details by calculating salary. (Assume remuneration Rs. 300 per working hour) [Marks 25] 
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
