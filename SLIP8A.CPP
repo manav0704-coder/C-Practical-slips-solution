@@ -1,3 +1,7 @@
+a) Write a C++ program to create a class Number, which contain static data member 'cnt' and member function 'Display()'. Display() should print number of times display operation is performed irrespective of the object responsible for calling Display().
+[Marks 15]
+
+
 #include <iostream.h>
 #include <conio.h>
 
