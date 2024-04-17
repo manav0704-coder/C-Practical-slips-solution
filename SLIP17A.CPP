@@ -1,3 +1,5 @@
+a) Create a C++ class MyMatrix. Write a C++ program to accept and display a Matrix. Overload binary '-' operator to calculate subtraction of two matrices.
+
 #include <iostream.h>
 #include <conio.h>
 
