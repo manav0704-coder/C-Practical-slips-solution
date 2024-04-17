@@ -1,3 +1,7 @@
+
+b) Create a C++ class InvoiceBill with data members Order id, O Date, Customer Name, No of Products, Prod Name[], Quantity[], Prod Price[]. A Customer can buy 'n' products. Accept quantity for each product. Generate and Display the bill using appropriate Manipulators. (Use new operator)
+marks[25]
+
 #include <iostream.h>
 #include <conio.h>
 #include <iomanip.h>
