@@ -1,3 +1,6 @@
+a) Write a C++ program to create a class Machine with data members Machine_Id, Machine_Name, Price. Create and initialize all values of Machine object by using parameterized constructor and copy constructor. Display details of Machine using setw() and setprecision().
+[Marks 15]
+
 #include <iostream.h>
 #include <iomanip.h>   // Required for setw() and setprecision()
 #include <conio.h>     // Required for getch()
