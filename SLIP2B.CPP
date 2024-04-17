@@ -1,3 +1,10 @@
+b) Write a C++ program to create a class Movie with data members M Name, Release_Year, Director_Name and Budget. (Use File Handling) Write necessary member functions to:
+1. Accept details for 'n' Movies from user and store it in a file "Movie.txt".
+ii. Display Movie details from a file.
+iii. Count the number of objects stored in a file.
+[Marks 25]
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <istream>
