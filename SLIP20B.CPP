@@ -1,3 +1,9 @@
+b) Create a C++ class for inventory of Mobiles with data members Model, Mobile _Company, Color, Price and Quantity. Mobile can be sold, if stock is available, otherwise purchase will be made. Write necessary member functions for the following:
+i. To accept mobile details from user.
+ii. To sale a mobile. (Sale contains Mobile details & number of mobiles to be sold.)
+iii. To Purchase a Mobile. (Purchase contains Mobile details & number of mobiles to be purchased)
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
