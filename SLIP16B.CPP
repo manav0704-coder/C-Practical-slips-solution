@@ -1,3 +1,10 @@
+b) Create a C++ class MyMatrix and Write necessary member functions for the following:
+i. To accept a Matrix
+ii. To display a Matrix
+iii. Overload unary - operator to calculate transpose of a Matrix.
+iv. Overload unary '++' operator to increment matrix elements by 1.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 
