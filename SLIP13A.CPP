@@ -1,3 +1,5 @@
+a) Write a C++ program to create a class Product with data members Product_id, Product_Name, Qty, Price. Write member functions to accept and display Product information also display number of objects created for Product class. (Use Static data member and Static member function) 
+[Marks 15]
 #include <iostream.h>
 #include <conio.h>
 #include <stdio.h>  // For gets() and puts()
