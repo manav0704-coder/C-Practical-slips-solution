@@ -1,3 +1,8 @@
+b) Create a C++ class ComplexNumber with data members real and imaginary. Write necessary functions:
+i. To accept Complex Number using constructor.
+ii. To display Complex Number in format [x + iy].
+iii. To add two Complex Numbers by using friend function.
+
 #include <iostream.h>
 #include <conio.h>
 
