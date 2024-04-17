@@ -1,3 +1,7 @@
+b) Create a C++ class Marksheet with data members Seat_No, Student_Name, Class, Subject_Name[], Int_Marks[], Ext_Marks[], Total[], Grand_Total, Percentage, Grade. Write member function to accept Student information for 5 subjects. Calculate Total, Grand_Total, Percentage, Grade and use setw(), setprecision()and setfill()to display Marksheet.
+[Marks 25]
+
+
 #include <iostream.h>
 #include <conio.h>
 #include <iomanip.h>
