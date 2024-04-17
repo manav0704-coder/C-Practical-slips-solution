@@ -1,3 +1,12 @@
+
+a) Write a C++ program to create a class E_Bill with data members Cust_Name, Meter_ID, No_of_Units and Total_Charges. Write member functions to accept and display customer information by calculating charges. (Rules to calculate electricity board charges)
+For first 100 units Rs. 1 per unit
+For next 200 units Rs. 2 per unit
+Beyond 300 units Rs. 5 per unit
+All users are charged a minimum of Rs.150. If the total charge is more than Rs.250.00 then an additional charge of 15% is added.
+[Marks 15]
+
+
 #include <iostream.h>
 #include <conio.h>
 
