@@ -1,3 +1,7 @@
+a) Write a C++ program to accept Worker information Worker_Name, No_of_Hours_worked, Pay_Rate and Salary. Write necessary functions to calculate and display the salary of Worker. (Use default value for Pay_Rate)
+[Marks 15]
+
+
 #include <iostream.h>
 #include <stdio.h>  // For strcpy
 #include <conio.h>  // For getch()
