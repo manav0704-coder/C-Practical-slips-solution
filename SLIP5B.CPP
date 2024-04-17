@@ -1,3 +1,6 @@
+b) Create a C++ base class Shape. Derive three different classes Circle, Sphere and Cylinder from shape class. Write a C++ program to calculate area of Circle, Sphere and Cylinder. (Use pure virtual function).
+[Marks 25]
+
 #include <iostream.h>
 #include <math.h> // Included for potential use of math functions
 #include<conio.h>
