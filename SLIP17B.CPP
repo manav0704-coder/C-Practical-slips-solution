@@ -1,3 +1,10 @@
+
+b) Design two base classes Student (S_id, Name, Class) and Competition (C_id, C_Name). Derive a class Stud_Comp(Rank) from it. Write a menu driven program to perform following functions:
+i. Accept information.
+ii. Display information.
+iii. Display Student Details in the ascending order of Rank of a specified competition.
+(Use array of objects)
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
