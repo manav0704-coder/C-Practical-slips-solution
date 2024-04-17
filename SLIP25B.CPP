@@ -1,3 +1,6 @@
+b) Write a C++ program to read the contents of a "SampleData.txt" file. Create "Upper.txt" file to store uppercase characters, "Lower.txt" file to store lowercase characters, "Digit.txt" file to store digits and "Other.txt" file to store remaining characters of a given file.
+[Marks 25]
+
 #include <fstream.h>   // File stream
 #include <conio.h>     // For clrscr(), getch()
 #include <ctype.h>     // For character checking functions
