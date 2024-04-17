@@ -1,3 +1,7 @@
+
+Q1 write a c++ programe to find maximum and minimum of two integer numbers using inline function and conditional operator ?
+
+
 #include <iostream>
 
 // Inline function to find maximum of two numbers
