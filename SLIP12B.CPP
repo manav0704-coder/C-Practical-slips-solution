@@ -1,3 +1,9 @@
+b) Create a C++ class Weight with data members kilogram, gram. Write a C++ program using operator overloading to perform following functions:
+i. To accept weight.
+ii. To display weight in kilogram and gram format. iii. Overload += operator to add two weights.
+iv. Overload operator to check equality of two weights.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 
