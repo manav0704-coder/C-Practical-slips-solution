@@ -1,3 +1,10 @@
+
+b) Create a C++ class Time with data members hours, minutes, seconds. Write a C++ program using operator overloading to perform the following:
+i. ! To check whether two Times are equal or not.
+11. >> To accept the time.
+111. << To display the time.
+[Marks 25]   
+
 #include <iostream.h>
 #include <conio.h>
 
