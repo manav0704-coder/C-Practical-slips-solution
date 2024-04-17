@@ -1,3 +1,6 @@
+a) Write a C++ program to create a class Account with data members Acc_number, Acc_type and Balance. Write member functions to accept and display 'n' account details. (Use dynamic memory allocation)
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 #include <stdio.h> // for gets/puts
