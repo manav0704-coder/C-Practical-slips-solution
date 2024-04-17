@@ -1,3 +1,21 @@
+b) Create a C++ class MyArray with data members
+int *arr
+int size
+Write necessary member functions to accept and display Array elements. Overload the following
+operators:
+Operator
+Example
+Purpose
+- (Unary)
++(Binary)
+-A1
+Reverse array elements.
+A2-A1+n
+Add constant n to all array elements.
+[Marks 25]
+
+
+
 #include <iostream.h>
 #include <conio.h>
 
