@@ -1,3 +1,11 @@
+b) Create a C++ class Vector with data members size & pointer to integer. The size of the vector varies so the memory should be allocated dynamically.
+Perform following operations:
+i. Accept a vector
+ii. Display a vector in the format (10, 20, 30,....)
+111. Calculate union of two vectors.
+(use parameterized constructor & copy constructor)
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 
