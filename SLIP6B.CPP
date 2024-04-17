@@ -1,3 +1,17 @@
+b) Create a C++ class
+class Matrix
+{
+int **p;
+int r, c;
+public:
+//member functions
+};
+Write necessary member functions to:
+i. Accept Matrix elements
+11. Display Matrix elements.
+iii. Calculate transpose of a Matrix. (Use constructor and destructor)
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>  // Include for Turbo C++ console input/output
 
