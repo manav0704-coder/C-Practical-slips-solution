@@ -1,3 +1,6 @@
+a) Create a C++ class College, with data members College_Id, College_Name, Establishment_year, University_Name. Overload operators>> and << to accept and display College information.
+[Marks 15]    
+
 #include <iostream.h>
 #include <conio.h>
 
