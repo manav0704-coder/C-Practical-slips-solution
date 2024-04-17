@@ -1,3 +1,8 @@
+
+
+a) Create a C++ class MyString with data member character pointer. Write a C++ program to accept and display a string. Overload '+' operator to concatenate two strings.
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
