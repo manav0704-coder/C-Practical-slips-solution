@@ -1,3 +1,9 @@
+b) Create a base class Student with data members Roll No, Name. Derives two classes from it, class Theory with data members M1, M2, M3, M4 and class Practical with data members P1, P2. Class Result(Total_Marks, Percentage, Grade) inherits both Theory and Practical classes. (Use concept of Virtual Base Class and protected access specifiers)
+Write a C++ menu driven program to perform the following functions:
+i. Accept Student Information ii. Display Student Information
+iii. Calculate Total_marks, Percentage and Grade.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
