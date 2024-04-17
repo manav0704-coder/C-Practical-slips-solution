@@ -1,3 +1,9 @@
+a) Create a C++ class FixDeposit with data members FD_No, Cust_Name, FD_Amt, Interest rate, Maturity
+amt, Number_of_months. Create and Initialize all values of FixDeposit object by using parameterized
+constructor with default value for interest rate. Calculate maturity amt using interest rate and display
+all the details.
+marks[15]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
