@@ -1,3 +1,8 @@
+
+a) Write a C++ program to find average of 3 integer numbers and average of 3 float numbers.
+(Use function overloading)
+[Marks 15]                 
+
 #include <iostream.h>
 #include <conio.h>
 
