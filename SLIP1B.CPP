@@ -1,3 +1,16 @@
+
+b
+) Create a C++ class MyFile with data members file pointer and filename. Write necessary member functions to accept and display File. Overload the following operators:
+Operator
+!
+Example
+Purpose
+F3=F1+F2
+Concatenate the contents of file F1 and F2 in F3.
+!F3
+Changes the case of alternate characters of file F3.
+
+ans:-
 #include <iostream.h>
 #include <fstream.h>
 #include <stdio.h>
