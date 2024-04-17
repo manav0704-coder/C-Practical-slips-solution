@@ -1,3 +1,11 @@
+
+b) Create a C++ class Employee with data members Emp_Id, Emp_Name, Mobile_No, Salary. Write necessary member functions for the following:
+i. Accept details of n employees
+ii. Display employee details in descending order of their salary.
+iii. Display details of a particular employee.
+(Use Array of object and Use appropriate manipulators)
+[Marks 25]      
+
 #include <iostream.h>
 #include <conio.h>
 #include <stdlib.h>
