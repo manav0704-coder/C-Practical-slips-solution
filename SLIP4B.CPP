@@ -1,3 +1,10 @@
+b) Write a C++ program to create a base class Employee (Emp-code, name, salary). Derive two classes as Fulltime (daily_wages, number_of_days) and Parttime (number_of_working_hours, hourly_wages).
+Write a menu driven program to perform following functions:
+1. Accept the details of 'n' employees and calculate the salary.
+2. Display the details of 'n' employees.
+3. Display the details of employee having maximum salary for both types of employees.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 
