@@ -1,3 +1,23 @@
+a) Consider the following C++ class
+class Person
+{
+char Name [20];
+charAddr [30];
+float Salary;
+float tax amount;
+public:
+// member functions
+};
+Calculate tax amount by checking salary of a person
+For salary <=20000
+For salary >20000||<=40000
+For salary >40000
+tax rate=0
+tax rate 5% of salary.
+tax rate 10% of salary.
+[Marks 15]
+
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h> // For strcpy
