@@ -1,3 +1,8 @@
+a) Write a C++ program to calculate mean, mode and median of three integer numbers.
+(Use Inline function)
+marks[15]
+
+
 #include <iostream.h>
 #include <conio.h>
 #include<stdlib.h>
