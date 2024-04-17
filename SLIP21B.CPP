@@ -1,3 +1,19 @@
+
+b) Create a C++ class for a two dimensional points. Write necessary member functions to accept & display the point object. Overload the following operators:
+Operator
+Example
+Purpose
++ (Binary)
+P3-P1+P2
+Adds coordinates of point pl and p2.
+- (Unary)
+-P1
+Negates coordinates of point pl.
+*(Binary)
+P2=P1*n
+Multiply coordinates of point p1 by constant 'n'
+marks[25]
+
 #include <iostream.h>
 #include <conio.h>
 
