@@ -1,3 +1,7 @@
+a) Write a C++ program using class with data member char str[50] and function replace (char chl, char ch2) every occurrence of chl in str should be replaced with ch2 and return number of replacement it makes use default value for char ch2. (Use ch2 as Default Argument)
+[Marks 15]
+
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h> // for strlen function
