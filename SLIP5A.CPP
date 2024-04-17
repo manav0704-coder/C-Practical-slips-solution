@@ -1,3 +1,15 @@
+a) Consider the following C++ class
+class Point
+{
+int x,y;
+public:
+void setpoint(int, int);
+void showpoint();
+// To set the values of x and y co-ordinate.
+// To display co-ordinate of a point P in format (x, y).
+};
+[Marks 15]
+
 #include <iostream.h>
 
 class Point {
