@@ -1,3 +1,7 @@
+b) Create a C++ base class Media. Derive two different classes from it, class NewsPaper with data members N_Name, N_Editor, N_Price, No_of_Pages and class Magazine with data members M_Name, M_Editor, M_Price. Write a C++ program to accept and display information of both NewsPaper and Magazine. (Use pure virtual function) 
+[Marks 25]
+
+
 #include <iostream.h>
 #include <conio.h>
 
