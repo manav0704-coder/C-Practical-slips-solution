@@ -1,3 +1,9 @@
+
+b) Write a C++ program to overload 'display_str' function as follows:
+i. void display_str(char *) - Display a string in double quotes.
+ii. void display_str (int n, char *)- Display first n characters from a given string.
+iii. void display_str (int m, int n,char *)- Display substring of a given string from position m to n.
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
