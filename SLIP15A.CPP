@@ -1,3 +1,7 @@
+a) Create a C++ class Fraction with data members Numerator and Denominator. Write a C++ program to
+calculate and display sum of two fractions. (Use Constructor)
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 
