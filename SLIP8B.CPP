@@ -1,3 +1,10 @@
+b) Create a C++ class Person with data members Person_name, Mobile_number, Age, City. Write necessary member functions for the following:
+i. Search the mobile number of given person.
+ii. Search the person name of given mobile number.
+iii. Search all person details of given city.
+(Use function overloading)
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
