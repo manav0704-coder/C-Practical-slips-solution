@@ -1,3 +1,6 @@
+a) Write a C++ program to create a class Date with data members day, month, and year. Use default and parameterized constructor to initialize date and display date in dd-Mon-yyyy format. (Example: Input: 04-01-2021 Output: 04-Jan-2021)
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 
