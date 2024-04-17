@@ -1,3 +1,6 @@
+a) Write a C++ program to create a class Distance with data members meter and centimeter to represent distance. Write a function Larger() to return the larger of two distances. (Use this pointer)
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 
