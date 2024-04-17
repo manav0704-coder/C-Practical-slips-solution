@@ -1,3 +1,6 @@
+a) Create a C++ class Student with data members Roll_no, S_Name, Class, Percentage. Accept two students information and display information of student having maximum percentage. (Use this pointer)
+[Marks 15]
+
 #include <iostream.h>
 #include <conio.h>
 
