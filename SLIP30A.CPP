@@ -1,3 +1,8 @@
+
+a) Write C++ program to create two classes Integer_Array and Float_Array with an array as a data member. Write necessary member functions to accept and display array elements of both the classes. Find and display average of both the array. (Use Friend function)
+[Marks 15]   
+
+
 #include <iostream.h>
 #include <conio.h>
 
