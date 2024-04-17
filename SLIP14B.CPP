@@ -1,3 +1,9 @@
+b) Create a C++ class MyString with data members a character pointer and str_length. (Use new and delete operator). Write a C++ program using operator overloading to perform following operation:
+i. ! To reverse the case of each alphabet from a given string.
+ii. < To compare length of two strings.
+111. + To add constant 'n' to each alphabet of a string.
+[Marks 25]
+
 #include <iostream.h>
 #include <conio.h>
 #include <string.h>
