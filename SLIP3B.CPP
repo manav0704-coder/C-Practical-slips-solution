@@ -1,3 +1,6 @@
+b) Write a C++ program to accept 'n' numbers from user through Command Line Argument. Store all Even and Odd numbers in file "Even.txt" and "Odd.txt" respectively.
+[Marks 25]
+
 #include <iostream.h>
 #include <fstream.h>
 #include <stdlib.h>  // for atoi function
