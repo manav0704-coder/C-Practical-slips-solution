@@ -1,3 +1,9 @@
+
+
+a) Write a C++ program to read array of 'n' integers from user and display it in reverse order. (Use Dynamic memory allocation)
+[Marks 15]          
+
+
 #include <iostream.h>
 #include <conio.h>
 
